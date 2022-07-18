@@ -1,0 +1,56 @@
+{
+    "Item_Numbers": [
+        "1 ",
+        "2 ",
+        "3 ",
+        "4 ",
+        "5 ",
+        "6 ",
+        "7 "
+    ],
+    "Item_Names": [
+        "DERMAZOLE 200 CAP ",
+        "KENACORT 40MG INJ ",
+        "DISPOVAN SYRING ",
+        "FUNGIZOLE SOAP ",
+        "LUVATE CREAM ",
+        "FUNGIZOLE SOLUTION ",
+        "WELZIN 5 TAB "
+    ],
+    "Item_Batches": [
+        "0132 ",
+        "0378 ",
+        "4SR1 ",
+        "596 ",
+        "0223 ",
+        "0241 ",
+        "130A "
+    ],
+    "Item_Expiry_Dates": [
+        "8/23 ",
+        "9/24 ",
+        "1/27 ",
+        "8/23 ",
+        "8/23 ",
+        "3/23 ",
+        "7123 "
+    ],
+    "Item_Quantitys": [
+        "2 : 0 ",
+        "1 ",
+        "1 ",
+        "1 ",
+        "1 ",
+        "1 ",
+        "1 : 0 "
+    ],
+    "Item_Totalamounts": [
+        "198.00 ",
+        "154.50 ",
+        "6.50 ",
+        "145.00 ",
+        "230.00 ",
+        "165.00 ",
+        "25.00 "
+    ]
+}
